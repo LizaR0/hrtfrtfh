@@ -1,0 +1,14 @@
+/* .main-body{
+    height: 100vh;
+    width: 8vw;
+    background-color: rgb(120, 144, 221);
+    /* border-radius:30px ; */
+    /* display: flex; */
+ */
+main-body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #E99D72;
+    border-radius: 30px;
+    display: flex;
+}
